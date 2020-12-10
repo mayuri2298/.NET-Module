@@ -1,0 +1,7 @@
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\bin\Debug\SecondQue.exe.config
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\bin\Debug\SecondQue.exe
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\bin\Debug\SecondQue.pdb
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\obj\Debug\SecondQue.csprojAssemblyReference.cache
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\obj\Debug\SecondQue.csproj.CoreCompileInputs.cache
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\obj\Debug\SecondQue.exe
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\SecondQue\obj\Debug\SecondQue.pdb

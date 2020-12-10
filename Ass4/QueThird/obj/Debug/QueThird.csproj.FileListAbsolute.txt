@@ -1,0 +1,7 @@
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\bin\Debug\QueThird.exe.config
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\bin\Debug\QueThird.exe
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\bin\Debug\QueThird.pdb
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\obj\Debug\QueThird.csproj.CoreCompileInputs.cache
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\obj\Debug\QueThird.exe
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\obj\Debug\QueThird.pdb
+E:\MAYURI CHAVAN\Visual Studio\.NET\Assignments\Ass4\QueThird\obj\Debug\QueThird.csprojAssemblyReference.cache
